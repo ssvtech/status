@@ -17,3 +17,4 @@ status-website:
   introTitle: "**All systems operational**"
   introMessage: "This page shows the live status of Talenzly services."
   theme: light
+
