@@ -4,19 +4,19 @@
     "url": "https://app.talenzly.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.talenzly.com.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "2.87%",
-    "uptimeDay": "2.87%",
-    "uptimeWeek": "2.87%",
-    "uptimeMonth": "2.87%",
-    "uptimeYear": "2.87%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-07-05": 12
+      "2026-07-05": 69
     }
   },
   {
