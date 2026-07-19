@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.talenzly.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 199,
-    "timeDay": 251,
-    "timeWeek": 184,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 194,
+    "timeDay": 120,
+    "timeWeek": 185,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2026-07-05": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 414,
-    "timeWeek": 386,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "time": 430,
+    "timeDay": 316,
+    "timeWeek": 379,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 208,
-    "timeWeek": 204,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 243,
+    "timeDay": 170,
+    "timeWeek": 199,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
